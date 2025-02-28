@@ -1,4 +1,4 @@
-//console.log("hello world");
+
 // deposit amount
 // determine no of lines to bet on
 // collect a bet amount 
